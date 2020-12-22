@@ -1,1 +1,1 @@
-# singlecell_proteomics
+# Single-cell proteomics analysis in python
